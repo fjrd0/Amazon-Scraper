@@ -1,0 +1,2 @@
+pip install selenium beautifulsoup4
+msedgedriver en el PATH (same version as installed Edge)
